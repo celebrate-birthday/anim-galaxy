@@ -2,6 +2,7 @@
 ``` bash
 基于canvas/css/img实现的一个星空动画。
 ```
+由于我错误的fork，导致forked from错误，该项目的源项目为https://github.com/zhangzicao/anim-galaxy
 [demo]( https://zhangzicao.github.io/anim-galaxy)
 
 ## 初始化
